@@ -1,0 +1,18 @@
+{
+  "app_name": "আমার ফ্লাটার অ্যাপ",
+  "login": "লগইন",
+  "email": "ইমেইল",
+  "password": "পাসওয়ার্ড",
+  "logout": "লগআউট",
+  "articles": "আর্টিকেল",
+  "article_details": "আর্টিকেলের বিস্তারিত",
+  "download_file": "ফাইল ডাউনলোড",
+  "settings": "সেটিংস",
+  "language": "ভাষা",
+  "theme": "থিম",
+  "dark_mode": "ডার্ক মোড",
+  "light_mode": "লাইট মোড",
+  "switch_language": "ভাষা পরিবর্তন করুন",
+  "english": "ইংরেজি",
+  "bangla": "বাংলা"
+}

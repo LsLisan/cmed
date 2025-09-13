@@ -1,0 +1,18 @@
+{
+  "app_name": "My Flutter App",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "logout": "Logout",
+  "articles": "Articles",
+  "article_details": "Article Details",
+  "download_file": "Download File",
+  "settings": "Settings",
+  "language": "Language",
+  "theme": "Theme",
+  "dark_mode": "Dark Mode",
+  "light_mode": "Light Mode",
+  "switch_language": "Switch Language",
+  "english": "English",
+  "bangla": "Bangla"
+}
